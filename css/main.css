@@ -161,7 +161,7 @@ nav a:hover {
 body {
     font: 15px/2.2 "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: #d6efeb; 
-    color: #92C392;
+    color: #00BC9E;;
 } 
 
 main {
@@ -172,6 +172,9 @@ main {
 h1 {
     text-transform: uppercase;
     color: white;
+    background: #C3B092;
+    display: inline;
+    padding: .3em;
 }
 
 li {
@@ -185,10 +188,6 @@ a {
     text-transform: uppercase;
     padding: .4em;
     font-weight: bold;
-}
-
-li:hover {
-    color: #00BC9E;
 }
 
 a:hover {
